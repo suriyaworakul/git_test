@@ -1,0 +1,3 @@
+Hello World!
+
+This is a practice of how to use git and GitHub based on The Odin Project.
